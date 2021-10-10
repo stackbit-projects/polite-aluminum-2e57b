@@ -5,7 +5,9 @@ sections:
     title: This Is A Big Hero Headline
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus. \n \n Hello this is some more text, hopefully on a new line
+      quis lorem malesuada luctus. 
+      
+      \n \n Hello this is some more text, hopefully on a new line
     actions:
       - label: Learn More
         url: /features
