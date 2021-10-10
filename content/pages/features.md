@@ -4,7 +4,8 @@ sections:
   - type: hero_section
     title: Features
     subtitle: 'Hello
-     ipsum dolor sit amet, consectetur adipiscing elit.'
+    
+    <br> ipsum dolor sit amet, consectetur adipiscing elit.'
     align: center
   - type: features_section
     features:
