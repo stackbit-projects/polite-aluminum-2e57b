@@ -5,7 +5,7 @@ sections:
     title: Features
     subtitle: 'Hello
     
-    <br> \nipsum dolor sit amet, consectetur adipiscing elit.'
+    <br> \n ipsum dolor sit amet, consectetur adipiscing elit.'
     align: center
   - type: features_section
     features:
