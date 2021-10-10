@@ -3,7 +3,7 @@ title: Features
 sections:
   - type: hero_section
     title: Features
-    subtitle: 'Hello. 
+    subtitle: 'Hello.  
     
     <br> \n ipsum dolor sit amet, consectetur adipiscing elit.'
     align: center
